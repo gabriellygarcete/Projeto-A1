@@ -7,6 +7,7 @@ O Guia para Redação Nota Mil no ENEM é um projeto educacional voltado para au
 
 Objetivo
 Capacitar estudantes a alcançarem a nota máxima na redação do ENEM, fornecendo ferramentas para construir textos coesos, argumentativos e bem fundamentados, com foco em clareza, repertório sociocultural e propostas de intervenção viáveis.
+
 Estrutura do Guia
 
 Introdução: Modelos coringa com abertura sociocultural, problematização e tese, adaptáveis a qualquer tema.
@@ -23,5 +24,6 @@ Personalização: Ajuste os modelos com seus próprios repertórios sociocultura
 
 Contribuições
 Este projeto é aberto a sugestões de melhorias, como novos modelos coringa, repertórios adicionais ou estratégias pedagógicas. Entre em contato para colaborar ou compartilhar feedback.
+
 Licença
 Este projeto é de uso educacional e não deve ser reproduzido ou compartilhado sem autorização. Todos os direitos são reservados ao criador.
