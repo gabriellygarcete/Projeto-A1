@@ -41,6 +41,36 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 
+.dica-container {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#sortearDicaBtn {
+  background-color: #007bff; /* Cor do cabeçalho e links */
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+#sortearDicaBtn:hover {
+  background-color: #0056b3; /* Cor dos links no hover */
+}
+
+.dica-texto {
+  margin-top: 20px;
+  font-size: 1.1em;
+  font-style: italic;
+  color: #555;
+  min-height: 40px; /* Garante que o espaço para a dica não suma */
+}
+
 main {
   max-width: 800px;
   margin: 20px auto;
